@@ -87,6 +87,16 @@ a { color: var(--acento); }
   letter-spacing: 0.01em;
 }
 
+.portada .foto {
+  display: block;
+  width: 130px;
+  height: auto;
+  margin: 0.6rem auto 1.2rem;
+  border: 3px solid rgba(255, 255, 255, 0.85);
+  border-radius: 4px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.45);
+}
+
 .portada .subtitulo {
   font-size: clamp(1.3rem, 3vw, 2rem);
   font-weight: 300;

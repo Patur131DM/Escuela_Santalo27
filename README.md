@@ -7,6 +7,6 @@ Es un sitio estático (HTML + CSS), pensado para publicarse con GitHub Pages.
 ## Estructura
 
 - `index.html` — página de inicio
-- `conferencias.html`, `cronograma.html`, `abstracts.html`, `registro.html`, `info-local.html`, `homenaje.html` — secciones (por ahora "En construcción")
+- `conferencias.html`, `cronograma.html`, `abstracts.html`, `registro.html`, `info-local.html` — secciones (por ahora "En construcción")
 - `assets/estilo.css` — estilos compartidos
 - `assets/fondo.png` — imagen de fondo de la portada
